@@ -1,1 +1,2 @@
-DisableCorefile
+##DisableCorefile
+一个用于解决华强北手表刷入安卓10后系统空间被占满问题的模块
