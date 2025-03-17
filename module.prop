@@ -1,0 +1,6 @@
+id=disablecorefile
+name=Disable Corefile
+version=1.0
+versionCode=1
+author=BrotherSheng
+description=Disable core file generation globally via sysctl.
